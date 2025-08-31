@@ -1,0 +1,3 @@
+Estimado usuario, su cuenta de PayPal ha sido bloqueada.
+Por favor, actualice sus datos en el siguiente enlace:
+http://phishing-falso.com

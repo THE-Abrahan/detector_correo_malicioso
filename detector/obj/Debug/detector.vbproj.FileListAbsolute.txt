@@ -1,0 +1,15 @@
+C:\Users\lucas\Documents\ciber_seguridad\detector\obj\Debug\detector.vbproj.AssemblyReference.cache
+C:\Users\lucas\Documents\ciber_seguridad\detector\obj\Debug\detector.Form1.resources
+C:\Users\lucas\Documents\ciber_seguridad\detector\obj\Debug\detector.Resources.resources
+C:\Users\lucas\Documents\ciber_seguridad\detector\obj\Debug\detector.vbproj.GenerateResource.cache
+C:\Users\lucas\Documents\ciber_seguridad\detector\obj\Debug\detector.vbproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\ciber_seguridad\detector\bin\Debug\detector.exe.config
+C:\Users\lucas\Documents\ciber_seguridad\detector\bin\Debug\detector.exe
+C:\Users\lucas\Documents\ciber_seguridad\detector\bin\Debug\detector.pdb
+C:\Users\lucas\Documents\ciber_seguridad\detector\bin\Debug\detector.xml
+C:\Users\lucas\Documents\ciber_seguridad\detector\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lucas\Documents\ciber_seguridad\detector\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lucas\Documents\ciber_seguridad\detector\obj\Debug\detector.vbproj.CopyComplete
+C:\Users\lucas\Documents\ciber_seguridad\detector\obj\Debug\detector.exe
+C:\Users\lucas\Documents\ciber_seguridad\detector\obj\Debug\detector.xml
+C:\Users\lucas\Documents\ciber_seguridad\detector\obj\Debug\detector.pdb
